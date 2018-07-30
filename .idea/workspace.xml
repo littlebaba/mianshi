@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="726f8774-debd-473d-8741-7af3403fa4fe" name="Default" comment="" />
+    <list default="true" id="726f8774-debd-473d-8741-7af3403fa4fe" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/cloudin/cloudin5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloudin/cloudin5.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +26,8 @@
       <file leaf-file-name="cloudin5.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cloudin/cloudin5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="189">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
                 <element signature="e#840#841#0" expanded="true" />
                 <element signature="e#875#876#0" expanded="true" />
@@ -73,6 +75,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -89,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/cloudin4.java" />
         <option value="$PROJECT_DIR$/src/cloudin5.java" />
         <option value="$PROJECT_DIR$/src/cloudin/cloudin1.java" />
+        <option value="$PROJECT_DIR$/src/cloudin/cloudin5.java" />
       </list>
     </option>
   </component>
@@ -104,6 +110,7 @@
     <option name="width" value="1377" />
     <option name="height" value="662" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -120,7 +127,18 @@
             <path>
               <item name="mianshi" type="b2602c69:ProjectViewProjectNode" />
               <item name="mianshi" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mianshi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mianshi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mianshi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mianshi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -253,15 +271,16 @@
       <option name="presentableId" value="Default" />
       <updated>1532942533030</updated>
       <workItem from="1532942536677" duration="16678000" />
-      <workItem from="1532962271788" duration="507000" />
+      <workItem from="1532962271788" duration="1129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17185000" />
+    <option name="totallyTimeSpent" value="17807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
@@ -271,7 +290,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31683168" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
       <window_info id="Capture Tool" order="3" />
@@ -391,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cloudin/cloudin5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="189">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding>
             <element signature="e#840#841#0" expanded="true" />
             <element signature="e#875#876#0" expanded="true" />

@@ -8,6 +8,7 @@ import sun.misc.Queue;
 public class cloudin5 {
 
     public static class MyQueue {
+        /*自定义队列，要求插入队尾，得到队首，删除队首，得到队列中最大的元素*/
         private Object[] queue;
         private int head;
         private int end;
